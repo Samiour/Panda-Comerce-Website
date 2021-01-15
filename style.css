@@ -1,0 +1,14 @@
+.shoe-card{
+    border: 0;
+}
+.shoe-card-footer,.bag-card-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+     width: 100px;
+}
+.carousel-slide-first{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
